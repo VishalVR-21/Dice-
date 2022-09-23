@@ -1,16 +1,4 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1 style ="fontsize:30px"><b>Dice Game</b></h1>
+<h2>This is the a random number generator that can be used to for playing board games</h2>
+<img src="https://github.com/VishalVR-21/Dice-/blob/main/dice.jpeg" align = "center">
+<img src = "https://github.com/VishalVR-21/Dice-/blob/main/dice2.jpeg" align = "center">
